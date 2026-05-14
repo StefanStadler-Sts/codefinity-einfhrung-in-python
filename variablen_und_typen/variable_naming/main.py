@@ -1,6 +1,6 @@
 item_name = "Bread"
-item_price = 2.50
-item_quantity =250
+item_price = 4.52
+item_quantity =230
 
 
 # Testing
